@@ -1,7 +1,7 @@
 .NavContainer{
     border: solid white;
     border-width: 0.2px;
-    /* height:8vh; */
+    height:10vh;
     margin: 1em;
     padding: 10px;
     display: flex;
