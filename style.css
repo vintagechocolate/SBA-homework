@@ -8,7 +8,10 @@
     justify-content: space-evenly;
     align-items: center
 }
-
+.Body{
+    width: 100x;
+    height: 100px;
+}
 .Logo{
     border: 0px solid #ddd;
     border-radius: 1px;
@@ -23,6 +26,15 @@
     padding: 1px;
     width: 10px;
     display: block;
+}
+
+.Pictures{
+    border; solid purple;
+    display: inline-table;
+    max-height: 10px;
+    max-width: 20px;
+    width: 10px;
+    height: 10px;
 }
 
 form {
